@@ -1,3 +1,3 @@
 # FasterMDE
-Hardware-Software co-design neural architecture search for monocular depth estimation
+The differentiable hardware-software co-design neural architecture search method for monocular depth estimation
 
